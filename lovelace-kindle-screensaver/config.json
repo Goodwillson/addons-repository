@@ -1,11 +1,11 @@
 {
-  "name": "Lovelace Kindle Screensaver",
+  "name": "Lovelace Screensaver",
   "version": "0.0.2",
-  "slug": "lovelace-kindle-screensaver",
-  "description": "Display a lovelace page as a screensaver on a jailbroken Kindle",
-  "url": "https://github.com/marciogranzotto/hass-lovelace-kindle-screensaver",
-  "webui": "http://[HOST]:[PORT:5000]/output/cover.png",
-  "image": "marciogranzotto/addon-lovelace-kindle-screensaver-{arch}",
+  "slug": "lovelace-screensaver",
+  "description": "Display a lovelace page as a PNG",
+  "url": "https://github.com/Goodwillson/addons-repository",
+  "webui": "http://[HOST]:[PORT:5000]/",
+  "image": "sibbl/hass-lovelace-kindle-screensaver",
   "startup": "application",
   "arch": [
     "armv7",
